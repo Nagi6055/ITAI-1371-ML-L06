@@ -1,19 +1,23 @@
-1.	INTRODUCTION – (Name)
-{type}
+1.	INTRODUCTION – (JENNIFER R.)
+In this lab I truly learn the difference between regression and classification to solve the different types of prediction problems with the titanic set that we are using. Working with the passengers’ fares predictions and the 
+regressions of the survival rate with the logistics we encountered. The main takeaway I got from this lab is the preparation of the lab and being able to interpret the results with running the model for each part.
 
+2.	DESCRIPTION OF EXPIRIENCE/TOPIC - (JENNIFER R.)
+For this experience using the age and passenger class in being able to predict the passenger fares, with the survival predictions inputs for each category making identifying targets of 0 being not survived and 1 being survived. 
+While running the code I receive the following data of 714 passengers, while the data is dividing it into 571 training rows and 143 testing rows. With also using the linear regression in the lab to find the squared error, while 
+also finding the coefficient of the data input helps show the predictions and seeing how inputs can be fixed or even increase, which can also bring the logistical side of regression.
 
-2.	DESCRIPTION OF EXPIRIENCE/TOPIC - (Name)
-{type}
+3.	PERSONAL REFLECTION – (JENNIFER R.)
+One thing I need to reflect on is the way that not all programs work one by one, but the whole code must work in one sequence when running. I continuously ran into issues when checking one section of the code only to realize I 
+must run the whole thing to get the results that I need. But main reflection I realize is how in depth I must analyze data with different types of regression and how data can adjust.
 
+4.	DISCUSSION OF IMPROVEMENT AND LEARNING - (JENNIFER R.)
+I learned how to improve my skills in mechanical learning, with all I have learned from the past labs and now helps me be more attentive in what I am doing in each cell in evaluating and receiving the results that is shown. 
+But, in the future labs I will be able to inspect the code of why its passing and why its failing. For the future improvements and learning that will come, I would learn more about the features that will come my way and know how 
+they will improve the predictions, even if it means learning anything confusing or different. Using the lesson to improve my modeling skills and the different types of predictions and logistical factors to evaluate and measure 
+the answers for the problem that it requires.
 
-3.	PERSONAL REFLECTION – (Name)
-{type}
-
-
-4.	DISCUSSION OF IMPROVEMENT AND LEARNING - (Name)
-{type}
-
-
-5.	CONCLUSION - (Name)
-{type}
-
+5.	CONCLUSION - (JENNIFER R.)
+In this lab it helps me clarify the difference between regression and classification, with knowing which can help distinguish in predicting a category and a number with a prepared data. Not only that the experience of seeing how 
+data will only work is everything flows properly, which helps me with specific issues I will encounter in the future. This will surely help me in future assignments and in real life issues of future labs and problems I could 
+encounter and know what they mean.
